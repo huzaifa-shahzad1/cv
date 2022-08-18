@@ -15,3 +15,8 @@ hr  {
     width: 5%;
     border-width: 5px;
 }
+
+.skills:hover
+{
+    color: #FF7C7C;
+}
